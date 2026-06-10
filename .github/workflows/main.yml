@@ -21,6 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
+          plugin_leetcode_user: sohamkalse
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
